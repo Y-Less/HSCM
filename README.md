@@ -16,6 +16,11 @@ This folder contains a Python script I wrote for Notepad++ which automatically c
 
 The one downside that I've noticed to this (almost INSTANTLY) is that previously I would hit "Ctrl-S" almost every line typed, I'm now just slightly hesitating each time.
 
+Scripts
+-------
+
+As mentioned, the tools use a combination of Python with the Notepad++ python script and batch files.  The former allows for interaction with the user within Notepad++ (to get the commit messages).  The latter runs a number of console commands in sequence to commit a git repository on any disk; this is an important requirement from my personal testing and is no less portable than pure Python code - at least when on Windows.
+
 Traceability
 ------------
 
