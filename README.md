@@ -1,0 +1,4 @@
+HSCM
+====
+
+Haskell Code Metrics.
