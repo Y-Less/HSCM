@@ -1,4 +1,4 @@
 HSCM
 ====
 
-Haskell Code Metrics.
+Haskell Code Metrics.  This does some stuff.
